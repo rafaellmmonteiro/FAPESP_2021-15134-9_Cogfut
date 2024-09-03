@@ -1,7 +1,4 @@
-# FAPESP_2021-15134-9_Cogfut
-# [Are cognitive functions capable of predicting the overall effectiveness and the contributions of athletes to the team in small-sided soccer games? A machine learning approach. 2024](https://bv.fapesp.br/pt/bolsas/209042/as-funcoes-cognitivas-sao-capazes-de-predizer-a-efetividade-geral-e-contribuicao-do-atleta-para-a-eq/)
-
-# Cogfut
+# [As funções cognitivas são capazes de predizer a efetividade geral e as contribuições do atleta para a equipe em jogos reduzidos de futebol? Uma abordagem utilizando aprendizado de máquina.](https://bv.fapesp.br/pt/bolsas/209042/as-funcoes-cognitivas-sao-capazes-de-predizer-a-efetividade-geral-e-contribuicao-do-atleta-para-a-eq/)
 
 ## Visão geral do projeto
 
