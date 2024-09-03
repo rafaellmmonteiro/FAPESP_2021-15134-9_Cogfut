@@ -23,8 +23,3 @@ Os autores agradecem imensamente ao pessoal técnico e aos atletas pela particip
 ## Contato
 Para mais informações ou dúvidas, por favor, entre em contato pelo e-mail [rafaell_mmonteiro@usp.br](mailto:rafaell_mmonteiro@usp.br).
 
-
-### Agradecimentos
-Os autores agradecem imensamente ao pessoal técnico e aos atletas pela participação e contribuições fundamentais para este estudo. Além disso, agradecemos o apoio financeiro da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) sob as bolsas #2021/15134-9, #2020/14845-6, #2019/22262-3, #2019/17729-0, do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) bolsa #123941/2020-2, da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) – Código de Financiamento 001, e do Centro Acadêmico Bavariano para a América Latina (BAYLAT).
-
-Para mais informações ou dúvidas, por favor, entre em contato pelo e-mail [rafaell_mmonteiro@usp.br](mailto:rafaell_mmonteiro@usp.br).
