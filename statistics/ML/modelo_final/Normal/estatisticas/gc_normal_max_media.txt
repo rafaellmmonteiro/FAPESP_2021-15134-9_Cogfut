@@ -1,0 +1,1 @@
+Maior média: 0.5598484848484849 na coluna Naive

@@ -1,0 +1,37 @@
+Par de Variáveis, Cohen's d
+('Memória de trabalho visuoespacial', 'Atenção sustentada'), 0.128765
+('Memória de trabalho visuoespacial', 'Impulsivity'), -0.031831
+('Memória de trabalho visuoespacial', 'Capacidade de rastreamento'), 0.724825
+('Memória de trabalho visuoespacial', 'Cognitive flexibility'), -0.431543
+('Memória de trabalho visuoespacial', 'Individual goals'), 0.064123
+('Memória de trabalho visuoespacial', 'Cconceded goals'), 0.167632
+('Memória de trabalho visuoespacial', 'Goals by teammates'), -0.064404
+('Memória de trabalho visuoespacial', 'Net team goals'), -0.037567
+('Atenção sustentada', 'Impulsivity'), 0.518961
+('Atenção sustentada', 'Capacidade de rastreamento'), 0.440843
+('Atenção sustentada', 'Cognitive flexibility'), -0.039094
+('Atenção sustentada', 'Individual goals'), 0.239908
+('Atenção sustentada', 'Cconceded goals'), 0.241207
+('Atenção sustentada', 'Goals by teammates'), -0.535223
+('Atenção sustentada', 'Net team goals'), -0.301240
+('Impulsivity', 'Capacidade de rastreamento'), 0.069602
+('Impulsivity', 'Cognitive flexibility'), 0.047125
+('Impulsivity', 'Individual goals'), -0.099934
+('Impulsivity', 'Cconceded goals'), -0.550614
+('Impulsivity', 'Goals by teammates'), -0.228243
+('Impulsivity', 'Net team goals'), 0.104705
+('Capacidade de rastreamento', 'Cognitive flexibility'), -0.168966
+('Capacidade de rastreamento', 'Individual goals'), -0.107220
+('Capacidade de rastreamento', 'Cconceded goals'), -0.032490
+('Capacidade de rastreamento', 'Goals by teammates'), 0.031640
+('Capacidade de rastreamento', 'Net team goals'), 0.053881
+('Cognitive flexibility', 'Individual goals'), -0.432844
+('Cognitive flexibility', 'Cconceded goals'), -0.238660
+('Cognitive flexibility', 'Goals by teammates'), -0.208035
+('Cognitive flexibility', 'Net team goals'), -0.273088
+('Individual goals', 'Cconceded goals'), -0.297670
+('Individual goals', 'Goals by teammates'), -0.868019
+('Individual goals', 'Net team goals'), 0.936210
+('Cconceded goals', 'Goals by teammates'), -0.142938
+('Cconceded goals', 'Net team goals'), -2.485174
+('Goals by teammates', 'Net team goals'), 0.653286

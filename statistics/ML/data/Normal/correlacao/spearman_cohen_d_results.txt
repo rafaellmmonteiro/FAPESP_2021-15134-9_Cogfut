@@ -1,0 +1,37 @@
+Par de Variáveis, Cohen's d
+('Memória', 'Atenção'), 0.128765
+('Memória', 'Impulsividade'), -0.031831
+('Memória', 'Rastreamento'), 0.724825
+('Memória', 'Flexibilidade cognitiva'), -0.431543
+('Memória', 'Gols feitos'), 0.064123
+('Memória', 'Gols sofridos'), 0.167632
+('Memória', 'Gols companheiros'), -0.064404
+('Memória', 'Saldo de gols'), -0.037567
+('Atenção', 'Impulsividade'), 0.518961
+('Atenção', 'Rastreamento'), 0.440843
+('Atenção', 'Flexibilidade cognitiva'), -0.039094
+('Atenção', 'Gols feitos'), 0.239908
+('Atenção', 'Gols sofridos'), 0.241207
+('Atenção', 'Gols companheiros'), -0.535223
+('Atenção', 'Saldo de gols'), -0.301240
+('Impulsividade', 'Rastreamento'), 0.069602
+('Impulsividade', 'Flexibilidade cognitiva'), 0.047125
+('Impulsividade', 'Gols feitos'), -0.099934
+('Impulsividade', 'Gols sofridos'), -0.550614
+('Impulsividade', 'Gols companheiros'), -0.228243
+('Impulsividade', 'Saldo de gols'), 0.104705
+('Rastreamento', 'Flexibilidade cognitiva'), -0.168966
+('Rastreamento', 'Gols feitos'), -0.107220
+('Rastreamento', 'Gols sofridos'), -0.032490
+('Rastreamento', 'Gols companheiros'), 0.031640
+('Rastreamento', 'Saldo de gols'), 0.053881
+('Flexibilidade cognitiva', 'Gols feitos'), -0.432844
+('Flexibilidade cognitiva', 'Gols sofridos'), -0.238660
+('Flexibilidade cognitiva', 'Gols companheiros'), -0.208035
+('Flexibilidade cognitiva', 'Saldo de gols'), -0.273088
+('Gols feitos', 'Gols sofridos'), -0.297670
+('Gols feitos', 'Gols companheiros'), -0.868019
+('Gols feitos', 'Saldo de gols'), 0.936210
+('Gols sofridos', 'Gols companheiros'), -0.142938
+('Gols sofridos', 'Saldo de gols'), -2.485174
+('Gols companheiros', 'Saldo de gols'), 0.653286

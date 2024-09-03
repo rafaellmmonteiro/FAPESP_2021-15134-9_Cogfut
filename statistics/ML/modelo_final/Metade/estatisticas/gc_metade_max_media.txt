@@ -1,0 +1,1 @@
+Maior média: 0.6159090909090909 na coluna KNN

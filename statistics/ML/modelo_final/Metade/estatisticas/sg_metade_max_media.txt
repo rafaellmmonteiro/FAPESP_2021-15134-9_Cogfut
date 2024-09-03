@@ -1,0 +1,1 @@
+Maior média: 0.5371212121212121 na coluna Rede neural
