@@ -8,10 +8,10 @@ Foram utilizados dados obtidos por meio de testes computadorizados com softwares
 
 A avaliação em campo foi feita por meio de jogos reduzidos de 3 x 3 jogadores sem goleiros. Cada jogo tinha duração de 4 minutos. Após cada rodada os times eram misturados de forma aleatória, dessa forma os jogadores não jogavam com ou contra os mesmos colegas. O objetivo da avaliação é extrair a performance individual de cada atleta por meio da interação coletiva entre os jogadores. Este protoclo foi proposto e validado por Wilson et al. 2021 (https://onlinelibrary.wiley.com/doi/full/10.1111/sms.13969).
 
-
-![Campo](https://github.com/user-attachments/assets/b595a0ce-6425-4b5d-9c8b-78c8d9749c09)
-![grafico](https://github.com/user-attachments/assets/24891f2c-6b51-4c2f-afee-c5f580eb06c9)
-
+<p align="center">
+  <img src="https://github.com/rafaellmmonteiro/Cogfut/assets/84471266/c29f4612-5aab-44c0-91b9-ae5d73ff234d" alt="vlcsnap-2024-02-07-20h22m02s693" width="45%" />
+  <img src="https://github.com/rafaellmmonteiro/Cogfut/assets/84471266/2d684568-7561-4225-aad8-a367d1372bfb" alt="Iury" width="45%" />
+</p>
 
 ## Acesso aos dados
 Todos os códigos utilizados para o processamento de dados podem ser acessados na pasta [src](./src/). Os dados anonimizados utilizados para o processamento e trabalho final podem ser acessados na pasta [data](./data/). Dentro desta pasta tem os dados brutos e os dados processados que foram utilizados para análise no arquivo 'dataset.csv'. Todos os procedimentos de análise, incluindo treinamento dos algoritmos e resultados podem ser acessados na pasta [statistics](./statistics/).
