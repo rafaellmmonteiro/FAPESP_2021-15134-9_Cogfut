@@ -1,0 +1,2 @@
+subID;avTargetsCorrect;capacity
+23;2.5;1.0
