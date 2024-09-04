@@ -18,7 +18,7 @@ Todos os códigos utilizados para o processamento de dados podem ser acessados n
 
 
 ### Agradecimentos
-Os autores agradecem imensamente ao pessoal técnico e aos atletas pela participação e contribuições fundamentais para este estudo. Além disso, agradecemos o apoio financeiro da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) sob as bolsas #2021/15134-9, #2020/14845-6, #2019/22262-3, #2019/17729-0, da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) – Código de Financiamento 001, e do Centro Acadêmico Bavariano para a América Latina (BAYLAT).
+Os autores agradecem imensamente ao pessoal técnico e aos atletas pela participação e contribuições fundamentais para este estudo. Além disso, agradecemos o apoio financeiro da Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) sob as bolsas [#2021/15134-9](https://bv.fapesp.br/53743), [#2020/14845-6](https://bv.fapesp.br/54220), [#2019/22262-3](https://bv.fapesp.br/51740), [#2019/17729-0](https://bv.fapesp.br/51021) and [#2024/06226-5](https://bv.fapesp.br/52558), da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) – Código de Financiamento 001, e do Centro Acadêmico Bavariano para a América Latina (BAYLAT).
 
 ## Contato
 Para mais informações ou dúvidas, por favor, entre em contato pelo e-mail [rafaell_mmonteiro@usp.br](mailto:rafaell_mmonteiro@usp.br).
